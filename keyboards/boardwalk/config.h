@@ -66,7 +66,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // ws2812 options
 #define RGB_DI_PIN B7 // pin the DI on the ws2812 is hooked-up to
-#define RGBLIGHT_ANIMATIONS // run RGB animations
+// #define RGBLIGHT_ANIMATIONS // run RGB animations is deprecated
 #define RGBLED_NUM 14 // number of LEDs
 #define RGBLIGHT_HUE_STEP 12 // units to step when in/decreasing hue
 #define RGBLIGHT_SAT_STEP 25 // units to step when in/decresing saturation
